@@ -1,5 +1,5 @@
 # KUConnect
-This is an WebApp designied for our college use only where the students of the univrsity can connect with each other.
+This is an WebApp designied for our college use only where the students of the university can connect with each other.
 
 
 ## SubHeader
